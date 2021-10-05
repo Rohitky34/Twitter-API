@@ -1,2 +1,1 @@
-
-Create a new budget app with a dashboard to monitor the household expenses in using React 
+Implemented Twitter backend APIs.
